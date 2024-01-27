@@ -7,4 +7,4 @@ jestem bardzo wdzieczny, ze moglem zrobic to zadanie,
 dodatkowo przypomne, ze nie zrobilem tego po nic, otrzymam rowniez wynagrodzenie wartosci mam nadzieje chociaz 2pkt
 do warsztatu programisty,
 Pozdrawiam serdecznie kazdego ! 
-==NIECH WAM LATEX LEKKIM BEDZIE==
+# NIECH WAM LATEX LEKKIM BEDZIE
